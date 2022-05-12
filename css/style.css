@@ -1,0 +1,133 @@
+.news {
+	text-align: center;
+	color: darkgreen;
+	font-size: 24px;
+	margin: 50px auto;
+}
+.newsTwo {
+	font-style: italic;
+	line-height: 1.5;
+}
+.newsThree{
+	text-align: center;
+	font-weight: 600;
+}
+.newsFour {
+	text-align: justify;
+}
+.wrapper {
+	background-color: beige;
+	margin: 50px auto;
+	max-width: 100%;
+	font-size: 0;
+}
+.mainMenu {
+	display: inline-block;
+	outline: 2px solid red;
+	font-size: 16px;
+	padding: 15px;
+	text-align: justify;
+}
+body {
+	-webkit-background: url(../img/flag.jpg) no-repeat 100% / cover;
+	background: url(../img/flag.jpg) no-repeat 100% / cover;
+	min-width: 100%;
+}
+.wrapperSegment {
+	font-size: 0;
+}
+.btnMain {
+	text-align: center;	
+}
+.inChapter {
+	display: inline-block;
+	font-size: 16px;
+}
+.btn {
+	border: 3px solid greenyellow;
+	border-radius: 10px;
+	padding: 15px 25px;
+	margin: 0 0 0 15px;
+	background-color: grey;
+}
+.electroAutoTwo{
+	outline: 2px solid fuchsia;
+}
+.electroHome {
+	outline: 2px solid green;
+}
+p.stb { 
+	text-indent: 20px;
+	margin-top: 0.83em;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+.onlyKitchen {
+	outline: 2px solid green;
+	width: 600px;
+}
+.onlyKitchen div{
+	outline: 2px solid green;
+}
+.electroAuto {
+	display: table-cell;
+	outline: 2px solid fuchsia;
+	width: 800px;
+}
+.electroAutoTwo{
+	outline: 2px solid fuchsia;
+}
+.electroHome {
+	outline: 2px solid palegreen;
+}
+________________________________________________
+
+.wrapper,.inBlock {
+	background-color: grey;
+}
+.inChapter {
+	display: inline-block;
+	font-size: 16px;
+}
+.wrapperSegment {
+	font-size: 0;
+}
+.fullIndent {
+	padding: 5px;
+	box-sizing: border-box;
+}
+_________________________________________________
+
+.clr {
+	clear: both;
+}
+.inFl {
+	display: block;
+	float: left;
+	background-color: gold;
+}
+.outFl {
+	display: block;
+	float: right;
+	background-color: olive;
+}
+.btn {
+	border: 3px solid greenyellow;
+	border-radius: 10px;
+	padding: 15px 25px;
+	margin: 0 0 0 15px;
+	background-color: grey;
+}
+.btnMain {
+	text-align: center;	
+}*/
